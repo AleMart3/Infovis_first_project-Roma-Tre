@@ -1,0 +1,3 @@
+# Infovis_first_project-Roma-Tre
+
+Crea un file json con dei dati bivariati: ci sono 20 data-point e ogni data-point ha due variabili quantitative. Prima disegna questo dataset tramite uno scatterplot (un insieme di cerchietti sul piano) in cui la prima variabile è usata per le x e la seconda variabile è utilizzata per le y. Facendo click con il pulsante sinistro del mouse su un cerchietto questo rimane immobile, ma tutti gli altri cerchietti si muovono e si spostano nella posizione che avrebbero se la prima variable fosse usata per le y e la seconda per le x. Continuando a fare click sui cerchietti si ottiene la traslazione di tutti gli altri con le stesse regole dette sopra.
